@@ -1,0 +1,19 @@
+#Vertical {
+	background: #df7366;
+	padding: 200px 0;
+}
+.VerticalWords {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 30px;
+	color: #fff;
+}
+@media screen and (max-width : 736px) {
+	#Vertical {
+		background: #df7366;
+		padding: 50px;
+	}
+}
+/*Ultility*/
+.align-center {
+	text-align: center;
+}
