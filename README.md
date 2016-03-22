@@ -20,7 +20,7 @@ A demo can be found at 'index.html' in this repository.
 #Include the Collapse script at the bottom of the body of your webpage
     <script type="text/javascript" src="js/jquery-2.1.4.js"></script>
     <script type="text/javascript" src="js/scripts.js"></script>
-Following is an example section that you could apply this plugin:
+#Following is an example section that you could apply this plugin:
     <div id="Vertical" class="col-md-10 col-sm-8 col-xs-8">
         <div class="align-center VerticalWords">Horizontal and Vertical Alignment</div>
     </div>
